@@ -134,6 +134,9 @@ google.com, pub-5060663379040713, RESELLER, f08c47fec0942fa0
 
 grouprvn.com, 420212011, RESELLER
 
+
+      indexexchange.com, 50, RESELLER
+
 ignitemediatech.com, pub_11115, RESELLER
 
 iion.io, 10162, RESELLER
@@ -279,6 +282,8 @@ playwire.com, 1025119, RESELLER
 pokkt.com, 6246, RESELLER, c45702d9311e25fd
 
 prado.co, 14260, RESELLER
+
+      pubmatic.com, 156423, RESELLER, 5d62403b186f2ace
 
 pubmatic.com, 156520, RESELLER, 5d62403b186f2ace
 
